@@ -1,0 +1,23 @@
+ZipCode,DateObserved,StateCode,ReportingArea,ParameterName,AQI
+20057,2017-09-11 ,DC,Metropolitan Washington,OZONE,33
+20057,2017-09-11 ,DC,Metropolitan Washington,PM2.5,31
+92614,2017-09-11 ,CA,Saddleback Vly,OZONE,77
+92614,2017-09-11 ,CA,Saddleback Vly,PM2.5,54
+92614,2017-09-11 ,CA,Saddleback Vly,PM10,16
+27896,2017-09-11 ,NC,Rocky Mount,OZONE,25
+27896,2017-09-11 ,NC,Rocky Mount,PM2.5,12
+20144,2017-09-11 ,VA,Winchester,OZONE,32
+20144,2017-09-11 ,VA,Winchester,PM2.5,31
+15410,2017-09-11 ,PA,Pittsburgh,OZONE,42
+15410,2017-09-11 ,PA,Pittsburgh,PM2.5,29
+68792,2017-09-11 ,SD,Union County,OZONE,41
+68792,2017-09-11 ,SD,Union County,PM2.5,47
+68792,2017-09-11 ,SD,Union County,PM10,23
+36695,2017-09-11 ,AL,Mobile,OZONE,35
+36695,2017-09-11 ,AL,Mobile,PM2.5,9
+18914,2017-09-11 ,PA,Philadelphia,OZONE,37
+18914,2017-09-11 ,PA,Philadelphia,PM2.5,25
+11596,2017-09-11 ,NY,Long Island,OZONE,34
+11596,2017-09-11 ,NY,Long Island,PM2.5,11
+18041,2017-09-11 ,PA,Philadelphia,OZONE,37
+18041,2017-09-11 ,PA,Philadelphia,PM2.5,25
